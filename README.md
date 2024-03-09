@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash
-<h3 align="center">I'm a Full Stack Developer and final year Computer Engineering Student.</h3>
+<h3 align="center">I'm a Full-Stack Developer and Data Science Learner | Web , Android and IOS applications</h3>
 
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Science and AI / ML.**
  
-- 🔥 I'm also enhancing myself in the field of **Computer Vision**
+- 🔥 I'm also enhancing myself in the field of **Artificial Intelligence **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
-- 📫 How to reach me **asghadge6@gmail.com**
+- 📫 How to reach me **harshalpimpalshwnde@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -49,11 +49,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/akash-ghadge-724864198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/akash_ghadge3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/harshal-pimpalshende-65a467205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "http://instagram.com/iharshalpimpalshende/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/akashghadge?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/noobacker?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>
