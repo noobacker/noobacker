@@ -32,15 +32,15 @@
 </p>
  
 <p align="center">
-    <a href="https://github.com/akashghadge/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashghadge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/noobacker/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noobacker&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
 <div align="center">
  
 # 📊 My Github Stats
- ![trophy](https://github-profile-trophy.vercel.app/?username=akashghadge&row=1&no-bg=true)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=noobacker&row=1&no-bg=true)
 
  
 <br/>
@@ -56,4 +56,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/noobacker?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/noobacker?tab=followers"><img src="https://img.shields.io/github/followers/noobacker?label=Followers&style=social" alt="GitHub Badge"></a>
