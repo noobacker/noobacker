@@ -6,7 +6,7 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Science and AI / ML.**
+- 🌱 My goal is to harness the power of fascinating and cutting-edge technology, along with collaborative efforts, to craft solutions that drive social change and benefit communities.
  
 - 🔥 I'm also enhancing myself in the field of **Artificial Intelligence **
 
