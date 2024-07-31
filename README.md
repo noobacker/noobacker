@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshal
-<h3 align="center">I'm a Full-Stack Developer and Data Science Learner | Web , Android and IOS applications</h3>
+<h3 align="center">I am a Frontend Developer and Data Science Learner with expertise in developing web, Android, and iOS applications. With skills in Excel, Power BI, Python, and SQL, I excel in leveraging data analytics to transform complex datasets into powerful, actionable insights and strategic solutions. My passion lies in solving analytical challenges and crafting data narratives that drive informed decision-making.</h3>
 
  ## 🙋‍♂️ About Me
 
